@@ -1,0 +1,19 @@
+{
+  "name": "weatherapp2.0",
+  "version": "1.0.0",
+  "description": "1. Download the repository's ZIP file and unzip it. 2. Go inside the 'public' folder and open 'index.html' with your browser. 3. Make sure to dress accordingly!",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrypol/WeatherAppJS.git"
+  },
+  "author": "Gabriele Polenta",
+  "license": "ISC",
+  "homepage": "https://https://gabrypol.github.io/WeatherAppJS",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
