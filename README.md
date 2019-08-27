@@ -6,7 +6,7 @@
 # Weather App
 The App has been developed using responsive layouts in order to fit various devices.
 
-# How to use the Weather App:
+# This is how Weather App looks like:
 ![](images/image01.png)
 
 ![](images/image02.png)
